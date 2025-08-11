@@ -1,19 +1,5 @@
 # Capstone-Project
 EuroControl - En-Route ATFM Delay Analysis (2016–2024)
-For your **README.md**, you’ll want it to clearly explain:
-
-1. **What the project is** (overview & purpose)
-2. **Why it matters** (relevance to ATFM & aviation)
-3. **What’s inside** (data, methods, outputs)
-4. **How to use it** (instructions if applicable)
-5. **Key findings** (summary of insights)
-6. **Future work** (possible next steps)
-
-Here’s a draft you can adapt for your GitHub:
-
----
-
-# En-Route ATFM Delay Analysis (2016–2024)
 
 ## 📌 Overview
 
