@@ -1,7 +1,7 @@
 # Capstone-Project
 EuroControl - En-Route ATFM Delay Analysis (2016–2024)
 
-## 📌 Overview
+## Overview
 
 This project analyzes **En-Route Air Traffic Flow Management (ATFM) delays** across Eurocontrol’s network from **2016 to 2024**. Using Python-based data analysis and visualization, it identifies **trends, seasonal patterns, delay causes, and country-level impacts**.
 
@@ -9,14 +9,14 @@ The goal is to better understand **when, where, and why en-route delays occur** 
 
 ---
 
-## ✈️ What is ATFM?
+## What is ATFM?
 
 **Air Traffic Flow Management (ATFM)** is the process of balancing air traffic demand with available capacity to ensure safe and efficient flight operations.
 In this context, **en-route ATFM delays** are delays that occur during the airborne phase of a flight due to constraints like ATC capacity, weather, or airspace restrictions.
 
 ---
 
-## 📊 Features
+## Features
 
 * **Trend & Seasonality Analysis** – Yearly/monthly delay patterns
 * **Cause Attribution** – Ranking top delay causes per country and year
@@ -26,7 +26,7 @@ In this context, **en-route ATFM delays** are delays that occur during the airbo
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python** (pandas, matplotlib, seaborn, scikit-learn)
 * **Jupyter Notebook**
@@ -34,7 +34,7 @@ In this context, **en-route ATFM delays** are delays that occur during the airbo
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── data/
@@ -48,7 +48,7 @@ In this context, **en-route ATFM delays** are delays that occur during the airbo
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Clear **seasonal peaks** in delays during summer months
 * **ATC Capacity** and **Weather** remain top delay causes
@@ -57,7 +57,7 @@ In this context, **en-route ATFM delays** are delays that occur during the airbo
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 * Expand modeling with **time-series forecasting**
 * Integrate **real-time weather data** for improved predictions
