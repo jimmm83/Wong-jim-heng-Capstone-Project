@@ -1,6 +1,10 @@
 # Capstone-Project
 EuroControl - En-Route ATFM Delay Analysis (2016–2024)
 
+![img_text](https://github.com/jimmm83/Wong-jim-heng-Capstone-Project/blob/main/eurocontrol_members.jpg)
+
+
+
 ## Overview
 
 This project analyzes **En-Route Air Traffic Flow Management (ATFM) delays** across Eurocontrol’s network from **2016 to 2024**. Using Python-based data analysis and visualization, it identifies **trends, seasonal patterns, delay causes, and country-level impacts**.
